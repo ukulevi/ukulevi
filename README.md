@@ -15,7 +15,7 @@
 
 > ***strong, resilient, and technically bold.***
 
-I am a **fresher**, majoring in **Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)** 🇻🇳. 
+I am a **junior**, majoring in **Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)** 🇻🇳. 
 
 Much like the native **Robusta** bean, I have been roasted in a high-pressure academic environment to develop a foundation that is robust and high-impact.
 

@@ -15,13 +15,13 @@
 
 > ***strong, resilient, and technically bold.***
 
-I am a **junior**, majoring in **Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)** 🇻🇳. 
+I am a **fresher**, majoring in **Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)** 🇻🇳. 
 
 Much like the native **Robusta** bean, I have been roasted in a high-pressure academic environment to develop a foundation that is robust and high-impact.
 
 - I am currently working on **medical image segmentation**.
 - I am currently learning many **vision transformers & unet architectures**.
-- I am very willing to discuss about **Computer vision, Data science, or the best coffee spots in ur hometown.**
+- I am very willing to discuss about **Computer vision, Data science, or the best coffee spots in my hometown.**
 <br>
 
 ## <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhjdTJpYmhnM3c5aWs3ZnE4MXZ0azM5YXJrOGwwd3hxbXU0ODB1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ka4S8LMiGxA371PD3/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBhaGxhN2kzMzcxaHRzNjRnMGpuNHpmYTJoczBmNXZ4eDdkNmFzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vxCqvjvJqjJHW/giphy.gif)" width ="80"><b> My Special Menu</b>

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F7931E&size=25&center=true&vCenter=true&width=600&height=50&lines=CS+Undergraduate+%40+HCMUT;Brewing+Data+%26+Sipping+Code;Computer+Vision+Researcher;Full-time+Coffee+Lover..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F7931E&size=25&center=true&vCenter=true&width=600&height=50&lines=CS+Undergraduate+%40+HCMUT;Brewing+Data+%26+Sipping+Code;Computer+Vision+Learner;Full-time+Coffee+Lover..." alt="Typing SVG" />
   </a>
 </p>
 <br>
@@ -15,20 +15,20 @@
 
 > ***strong, resilient, and technically bold.***
 
-I am a **fresher**, majoring in **Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)** 🇻🇳. 
+I am a **fresher**, majoring in **Computer Science** at **Ho Chi Minh City University of Technology** 🇻🇳. 
 
 Much like the native **Robusta** bean, I have been roasted in a high-pressure academic environment to develop a foundation that is robust and high-impact.
 
 - I am currently working on **medical image segmentation**.
-- I am currently learning many **vision transformers & unet architectures**.
-- I am very willing to discuss about **Computer vision, Data science, or the best coffee spots in my hometown.**
+- I am currently researching many **vision transformer & unet architectures**.
+- I am very willing to discuss about **computer vision, data science, or the best coffee spots in my hometown.**
 <br>
 
 ## <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhjdTJpYmhnM3c5aWs3ZnE4MXZ0azM5YXJrOGwwd3hxbXU0ODB1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ka4S8LMiGxA371PD3/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBhaGxhN2kzMzcxaHRzNjRnMGpuNHpmYTJoczBmNXZ4eDdkNmFzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vxCqvjvJqjJHW/giphy.gif)" width ="80"><b> My Special Menu</b>
 
-Welcome to my **Digital Café**. Here is the special menu of skills I am currently serving:
+Welcome to my **Digital Café**. Here is the special menu, containing some skills that I am currently serving:
 
-### ☕ **Double shot espresso - Data science**
+### ☕ **Data science - double shot espresso**
 > ***concentrated, intense, and pure data.***
 
 I enjoy the process of immersion—diving deep into datasets and analyzing patterns to find the hidden insights within the numbers.
@@ -44,7 +44,7 @@ I enjoy the process of immersion—diving deep into datasets and analyzing patte
 </p>
 <br>
 
-### ❄️ **Cold brew - Computer vision & AI**
+### ❄️ **Computer vision & AI - cold brew**
 > ***steeped (trained) over time for deep, complex flavors.***
 
 My primary passion. Just as an espresso extracts the soul of the bean, I focus on extracting meaningful features from raw pixels. 
@@ -59,7 +59,7 @@ My primary passion. Just as an espresso extracts the soul of the bean, I focus o
 </p>
 <br>
 
-### 🥛 **Latte art - Web & app development**
+### 🥛 **Web & app development - latte art**
 > ***a smooth, creative finish on a strong base.***
 
 Beyond the dry nature of algorithms, I craft web interfaces to make models accessible. building applications that feel as smooth as microfoam.
@@ -77,7 +77,7 @@ Beyond the dry nature of algorithms, I craft web interfaces to make models acces
 -----
 
 ## <img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBhaGxhN2kzMzcxaHRzNjRnMGpuNHpmYTJoczBmNXZ4eDdkNmFzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vxCqvjvJqjJHW/giphy.gif)" width="80"><b> More Information </b>
->***meet me to unlock my full potentials***
+>***some others that i am interest in***
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
